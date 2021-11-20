@@ -1,5 +1,3 @@
-Hello I am @EmeraldCraft34
+Hello.
 
-I am currently working on a game and I hope to get it released soon.
-
-I'll put some stuff on here I guess.
+I like programming in Java, Python, and sometimes C/C++. I also sometimes make small, weird games with Unity or GameMakerStudio. ALL of my stuff will hopefully be open source, so feel free to use my work!
